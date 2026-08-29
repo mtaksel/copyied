@@ -2,6 +2,14 @@
 
 A compact text clipboard history widget for Windows and macOS.
 
+## Preview
+
+![Copyied widget](screenshots/copyied-widget.png)
+
+Design reference:
+
+![Copyied design reference](screenshots/copyied-design-reference.png)
+
 ## Features
 
 - Watches the clipboard automatically.
