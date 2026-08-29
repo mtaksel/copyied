@@ -2,10 +2,6 @@
 
 A compact text clipboard history widget for Windows and macOS.
 
-## Preview
-
-![Copyied widget](screenshots/copyied-widget.png)
-
 ## Features
 
 - Watches the clipboard automatically.
@@ -14,6 +10,11 @@ A compact text clipboard history widget for Windows and macOS.
 - Keeps up to 10 text/link favorites.
 - Includes dark mode and always-on-top settings.
 - Saves app data in the platform's application-data folder.
+
+## Platform versions
+
+- Windows: see [`windows/README.md`](windows/README.md)
+- macOS: see [`macos/README.md`](macos/README.md)
 
 ## Windows
 
