@@ -18,6 +18,8 @@ A compact text clipboard history widget for Windows and macOS.
 
 ## Windows
 
+For a standalone one-click app, download the `Copyied-Windows` artifact from GitHub Actions and run `Copyied.exe`. It does not open a Python or terminal window.
+
 Double-click the `Copyied` desktop shortcut.
 
 To recreate the shortcut:
@@ -35,6 +37,8 @@ cd C:\Users\mehme\clipboard-history-tool
 ```
 
 ## macOS
+
+Download the `Copyied-macOS` artifact from GitHub Actions, unzip it, and double-click `Copyied.app`.
 
 For a local development run, double-click `launch.command`. macOS may ask for permission the first time; allow it in Privacy & Security.
 
